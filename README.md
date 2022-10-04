@@ -6,11 +6,16 @@
 
 
 <h2> 📑 Estrutura  </h2>
- - Branch Lista_01 : Primeira lista; <br>
- - Branch Lista_02 : Segunda lista; <br>
- - Branch Lista_03 : Terceira lista; <br>
- - Branch Lista_04 : Quarta lista; <br>
- - Branch Lista_05 : Quinta lista. <br>
+
+ - Branch Lista_01 : [Primeira lista](https://github.com/Raniel-Santos/Listas-de-Ex.-Tecnicas-de-Programacao-/tree/Lista_01); <br>
+ 
+ - Branch Lista_02 : [Segunda lista](https://github.com/Raniel-Santos/Listas-de-Ex.-Tecnicas-de-Programacao-/tree/Lista_02); <br>
+ 
+ - Branch Lista_03 : [Terceira lista](https://github.com/Raniel-Santos/Listas-de-Ex.-Tecnicas-de-Programacao-/tree/Lista_03); <br>
+ 
+ - Branch Lista_04 : [Quarta lista](https://github.com/Raniel-Santos/Listas-de-Ex.-Tecnicas-de-Programacao-/tree/Lista_04); <br>
+ 
+ - Branch Lista_05 : [Quinta lista](https://github.com/Raniel-Santos/Listas-de-Ex.-Tecnicas-de-Programacao-/tree/Lista_05). <br>
 
 
 <div id='equipe'>
