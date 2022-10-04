@@ -2,15 +2,15 @@
 <h1 align="center"> FATEC Profº Jessen Vidal, SJC - 2º Semestre DSM </h1>
 
 <h2> 📑 Listas de Exercicios - Técnica de Programação  </h2>
-  - Repositório destinado ao desenvolvimento das listas da disciplina Técnica de Programação, ministrada pelo Professor Gerson Penha.
+  Repositório destinado ao desenvolvimento das listas da disciplina Técnica de Programação, ministrada pelo Professor Gerson Penha.
 
 
 <h2> 📑 Estrutura  </h2>
-    - Branch Lista_01 : Primeira lista;
-    - Branch Lista_02 : Segunda lista;
-    - Branch Lista_03 : Terceira lista;
-    - Branch Lista_04 : Quarta lista;
-    - Branch Lista_05 : Quinta lista.
+ - Branch Lista_01 : Primeira lista; <br>
+ - Branch Lista_02 : Segunda lista; <br>
+ - Branch Lista_03 : Terceira lista; <br>
+ - Branch Lista_04 : Quarta lista; <br>
+ - Branch Lista_05 : Quinta lista. <br>
 
 
 <div id='equipe'>
